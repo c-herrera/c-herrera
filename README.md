@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋, my name is Carlos
 #### Tech enthusiast and maybe gamer 
-![Tech enthusiast and maybe gamer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Tech enthusiast and maybe gamer ](https://github.com/c-herrera/c-herrera/blob/main/screen_2024-09-25_001348.png)
 
 II made this account to keep some of my projects created for job stuff or just for me, feel free to send me a note about them, I always want to fix stuff and learn! 
 
