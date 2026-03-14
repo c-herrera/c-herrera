@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![trophy](https://github-profile-trophy.vercel.app/?username=c-herrera)] (https://github.com/ryo-ma/github-profile-trophy)
 -->
 ### Hi there 👋, my name is Carlos
 #### Tech enthusiast and maybe gamer 
@@ -40,9 +41,6 @@ Skills and technologies I know :
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/c-herrera)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/carlosherreragodinez//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/cherr_rc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/c_herrera_godin1)  
 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=c-herrera)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-herrera)](https://github.com/anuraghazra/github-readme-stats)
 
